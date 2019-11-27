@@ -1,0 +1,2 @@
+# apagad
+apagado del equipo
